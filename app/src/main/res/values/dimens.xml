@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_height_default">56dp</dimen>
+    <dimen name="bottombar_height">56dp</dimen>
+    <dimen name="bottombar_margin">56dp</dimen>
+    <dimen name="margin_padding_small">4dp</dimen>
+    <dimen name="margin_padding_medium">8dp</dimen>
+    <dimen name="margin_padding_large">16dp</dimen>
+    <dimen name="margin_padding_extra_large">32dp</dimen>
+    <dimen name="font_toolbar">20sp</dimen>
+</resources>

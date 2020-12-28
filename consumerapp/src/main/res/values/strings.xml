@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="tb_detail_user">Detail User</string>
+    <string name="tb_search_user">Search User Github</string>
+    <string name="tb_list_favorite_user">List of User Favorites</string>
+    <string name="tb_detail_favorite_user">Detail User Favorite</string>
+    <string name="tb_setting">Setting</string>
+    <string name="username">Username</string>
+    <string name="url">Url</string>
+    <string name="place">Place</string>
+    <string name="name">Name</string>
+    <string name="follower">Follower</string>
+    <string name="total_repository">Total Repository</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="following">Following</string>
+    <string name="search_by_username">Search by username</string>
+    <string name="data_tidak_ditemukan">Data not found</string>
+    <string name="key_reminder">reminder</string>
+    <string name="name_reminder">Reminder at [time]</string>
+    <string name="time_reminder">09:00</string>
+    <string name="message_reminder">Lets find popular user on Github!</string>
+    <string name="message_reminder_set">Reminder at [time] has been set</string>
+    <string name="message_reminder_cancel">Reminder alarm was canceled</string>
+</resources>

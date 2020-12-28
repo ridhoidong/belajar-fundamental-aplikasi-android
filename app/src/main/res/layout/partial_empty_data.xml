@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rlEmptyData"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:visibility="visible"
+    android:clickable="true"
+    android:padding="@dimen/margin_padding_large">
+
+    <ImageView
+        android:id="@+id/ivNotFound"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/ic_empty"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/data_tidak_ditemukan" />
+
+    <TextView
+        android:id="@+id/tvNotFound"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivNotFound"
+        android:text="@string/data_tidak_ditemukan"
+        android:gravity="center"
+        android:padding="@dimen/margin_padding_medium"
+        android:layout_marginTop="@dimen/margin_padding_medium"/>
+
+</RelativeLayout>
